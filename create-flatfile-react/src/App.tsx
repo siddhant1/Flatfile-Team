@@ -6,8 +6,8 @@ import { workbook } from "./workbook-NT";
 
 const spaceProps: ISpace = {
   name: "Embedded Space",
-  publishableKey: "pk_hg1hB6DCNE20nuzXMUgWOMA7iFHGqDzo",
-  environmentId: "us_env_M5fe0On8",
+  publishableKey: "YOUR PK GOES HERE",
+  environmentId: "YOUR envID GOES HERE",
 };
 
 const Space = ({
